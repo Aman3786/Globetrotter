@@ -1,5 +1,5 @@
 # :earth_africa: Globetrotter Challenge
-An ultimate travel guessing game featuring cryptic clues and friend challenges. Built for backend engineering assessment.
+An ultimate travel guessing game featuring cryptic clues and friend challenges.
 ## :rocket: Features
 - 100+ destinations with clues/facts
 - Real-time scoring system
