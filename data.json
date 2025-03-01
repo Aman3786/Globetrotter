@@ -1,0 +1,1576 @@
+[
+    {
+      "city": "Paris",
+      "country": "France",
+      "clues": [
+        "Home to the Eiffel Tower and Louvre Museum",
+        "Known as the 'City of Light'"
+      ],
+      "fun_fact": [
+        "Has only 1 stop sign in the entire city",
+        "The Eiffel Tower grows 6 inches in summer"
+      ],
+      "trivia": [
+        "Original Roman name: Lutetia",
+        "Famous for croissants and macarons"
+      ]
+    },
+    {
+      "city": "Tokyo",
+      "country": "Japan",
+      "clues": [
+        "Shibuya Crossing - world's busiest pedestrian scramble",
+        "Home to the digital art museum teamLab Borderless"
+      ],
+      "fun_fact": [
+        "Vending machines sell fresh eggs and umbrellas",
+        "Has a Hello Kitty theme park"
+      ],
+      "trivia": [
+        "Formerly called Edo",
+        "Local specialty: Tsukiji fish market sushi"
+      ]
+    },
+    {
+      "city": "New York",
+      "country": "USA",
+      "clues": [
+        "Statue of Liberty and Central Park",
+        "Broadway theater district"
+      ],
+      "fun_fact": [
+        "Pizza is legally recognized as a vegetable in schools",
+        "1 in 38 Americans lives here"
+      ],
+      "trivia": [
+        "Original Dutch name: New Amsterdam",
+        "Local dish: Bacon egg & cheese on roll"
+      ]
+    },
+    {
+      "city": "Český Krumlov",
+      "country": "Czech Republic",
+      "clues": [
+        "Vltava River loops around medieval castle",
+        "UNESCO World Heritage Site"
+      ],
+      "fun_fact": [
+        "Castle moat houses brown bears",
+        "Hosts 5-petaled rose medieval festival"
+      ],
+      "trivia": [
+        "Population: 13,000",
+        "Local beer: Eggenberg"
+      ]
+    },
+    {
+      "city": "Tórshavn",
+      "country": "Faroe Islands",
+      "clues": [
+        "Grass-roofed parliament (Løgting)",
+        "Colorful harbor houses"
+      ],
+      "fun_fact": [
+        "Sheep outnumber humans 2:1",
+        "No traffic lights nationwide"
+      ],
+      "trivia": [
+        "Name means 'Thor's Harbor'",
+        "Traditional food: Ræst kjøt (fermented mutton)"
+      ]
+    },
+    {
+      "city": "Siem Reap",
+      "country": "Cambodia",
+      "clues": [
+        "Gateway to Angkor Wat",
+        "Pub Street night market"
+      ],
+      "fun_fact": [
+        "Landmine Museum run by former child soldier",
+        "Floating villages on Tonlé Sap"
+      ],
+      "trivia": [
+        "Name means 'Defeat of Siam'",
+        "Local dish: Fish amok curry"
+      ]
+    },
+    {
+      "city": "Salta",
+      "country": "Argentina",
+      "clues": [
+        "Andean colonial architecture",
+        "Tren a las Nubes railway"
+      ],
+      "fun_fact": [
+        "Museum of High Altitude Archaeology with Inca mummies",
+        "Emerald green Humahuaca Gorge"
+      ],
+      "trivia": [
+        "Nicknamed 'La Linda' (The Beautiful)",
+        "Local wine: Torrontés"
+      ]
+    },
+    {
+      "city": "Görlitz",
+      "country": "Germany",
+      "clues": [
+        "Best-preserved Renaissance town in Europe",
+        "Divided by Neisse River between Germany/Poland"
+      ],
+      "fun_fact": [
+        "Hollywood films here for authentic European look",
+        "Has 4,000 protected historical monuments"
+      ],
+      "trivia": [
+        "Local specialty: Schlesisches Himmelreich (pork stew)",
+        "Home to Europe's smallest department store"
+      ]
+    },
+    {
+      "city": "Chefchaouen",
+      "country": "Morocco",
+      "clues": [
+        "Blue-painted medina streets",
+        "Rif Mountain location"
+      ],
+      "fun_fact": [
+        "Blue walls repel mosquitoes",
+        "Former Jewish refugee haven"
+      ],
+      "trivia": [
+        "Local cannabis honey production",
+        "Traditional dish: Tagine with preserved lemons"
+      ]
+    },
+    {
+      "city": "Hoi An",
+      "country": "Vietnam",
+      "clues": [
+        "Ancient town with Japanese covered bridge",
+        "Lantern festival every full moon"
+      ],
+      "fun_fact": [
+        "Tailors can make custom suits in 24 hours",
+        "Underground network of merchant tunnels"
+      ],
+      "trivia": [
+        "UNESCO World Heritage Site since 1999",
+        "Local food: Cao lầu noodles"
+      ]
+    },
+    {
+      "city": "Bruges",
+      "country": "Belgium",
+      "clues": [
+        "Medieval bell tower on Markt square",
+        "Canals with swans"
+      ],
+      "fun_fact": [
+        "Invented French fries (called 'Flemish fries')",
+        "Has a beer pipeline under streets"
+      ],
+      "trivia": [
+        "Local specialty: Chocolate lace",
+        "Film location for 'In Bruges'"
+      ]
+    },
+    {
+      "city": "Luang Prabang",
+      "country": "Laos",
+      "clues": [
+        "Saffron-robed monks' morning alms",
+        "Mekong and Nam Khan rivers merge"
+      ],
+      "fun_fact": [
+        "Night market transforms main street daily",
+        "Kuang Si Falls' turquoise pools"
+      ],
+      "trivia": [
+        "UNESCO World Heritage Site",
+        "Local dish: Or lam (meat stew)"
+      ]
+    },
+    {
+      "city": "Bergen",
+      "country": "Norway",
+      "clues": [
+        "Colorful Bryggen wharf houses",
+        "Seven mountains surrounding city"
+      ],
+      "fun_fact": [
+        "Rainfall average: 231 days/year",
+        "Home to Europe's largest student festival"
+      ],
+      "trivia": [
+        "Gateway to Norwegian fjords",
+        "Local food: Skillingsboller (cinnamon bun)"
+      ]
+    },
+    {
+      "city": "Colmar",
+      "country": "France",
+      "clues": [
+        "Half-timbered houses in 'Little Venice'",
+        "Capital of Alsace wine region"
+      ],
+      "fun_fact": [
+        "Birthplace of Statue of Liberty sculptor",
+        "Christmas markets inspired Disneyland"
+      ],
+      "trivia": [
+        "Local specialty: Choucroute garnie (sauerkraut)",
+        "Featured in 'Beauty and the Beast'"
+      ]
+    },
+    {
+      "city": "Matera",
+      "country": "Italy",
+      "clues": [
+        "Ancient cave dwellings (Sassi)",
+        "2019 European Capital of Culture"
+      ],
+      "fun_fact": [
+        "Oldest continuously inhabited settlement in Europe",
+        "James Bond 'No Time to Die' filming location"
+      ],
+      "trivia": [
+        "UNESCO World Heritage Site",
+        "Local bread: Pane di Matera"
+      ]
+    },
+    {
+      "city": "Kotor",
+      "country": "Montenegro",
+      "clues": [
+        "Fortified medieval walled city",
+        "Dramatic fjord-like bay"
+      ],
+      "fun_fact": [
+        "Cats outnumber residents in Old Town",
+        "Hidden ladder of 1,350 steps to fortress"
+      ],
+      "trivia": [
+        "UNESCO World Heritage Site",
+        "Local drink: Krstač wine"
+      ]
+    },
+    {
+      "city": "Zanzibar City",
+      "country": "Tanzania",
+      "clues": [
+        "Stone Town's carved wooden doors",
+        "Spice market with cloves/cinnamon"
+      ],
+      "fun_fact": [
+        "Freddie Mercury's birthplace",
+        "Sunrise dhow sailing tradition"
+      ],
+      "trivia": [
+        "Local specialty: Zanzibar pizza",
+        "World's only red colobus monkey habitat"
+      ]
+    },
+    {
+      "city": "Valparaíso",
+      "country": "Chile",
+      "clues": [
+        "Colorful hillside houses with funiculars",
+        "Street art capital of South America"
+      ],
+      "fun_fact": [
+        "UNESCO site with 42 hills",
+        "Pablo Neruda's cliffside home"
+      ],
+      "trivia": [
+        "Local dish: Chorrillana (fries with meat/egg)",
+        "Hosts New Year's fireworks over Pacific"
+      ]
+    },
+    {
+      "city": "Sighișoara",
+      "country": "Romania",
+      "clues": [
+        "Birthplace of Vlad Dracul (Dracula)",
+        "Cobblestone streets with pastel houses"
+      ],
+      "fun_fact": [
+        "Still inhabited medieval citadel",
+        "Underground secret tunnels network"
+      ],
+      "trivia": [
+        "UNESCO World Heritage Site",
+        "Local drink: Țuică (plum brandy)"
+      ]
+    },
+    {
+      "city": "Hobart",
+      "country": "Australia",
+      "clues": [
+        "Gateway to Antarctica",
+        "Salamanca Market sandstone warehouses"
+      ],
+      "fun_fact": [
+        "World's second-driest capital city",
+        "MONA museum with underground galleries"
+      ],
+      "trivia": [
+        "Local specialty: Tasmanian scallop pie",
+        "Site of last convict ship arrival"
+      ]
+    },
+    {
+      "city": "Tallinn",
+      "country": "Estonia",
+      "clues": [
+        "Medieval Old Town with city walls",
+        "Europe's tech startup hub"
+      ],
+      "fun_fact": [
+        "Free public transport for residents",
+        "Home to NATO cyber defense center"
+      ],
+      "trivia": [
+        "Local dish: Leib (dark rye bread)",
+        "Invented Skype"
+      ]
+    },
+    {
+      "city": "Salvador",
+      "country": "Brazil",
+      "clues": [
+        "Pelourinho colorful colonial district",
+        "Capoeira martial art birthplace"
+      ],
+      "fun_fact": [
+        "365 churches - one for each day",
+        "Largest Carnival outside Rio"
+      ],
+      "trivia": [
+        "Local food: Acarajé (black-eyed pea fritters)",
+        "First Brazilian capital"
+      ]
+    },
+    {
+      "city": "Arequipa",
+      "country": "Peru",
+      "clues": [
+        "'White City' with sillar volcanic stone buildings",
+        "Near Colca Canyon"
+      ],
+      "fun_fact": [
+        "Mummy Juanita in Andes museum",
+        "Local alpaca textile production"
+      ],
+      "trivia": [
+        "UNESCO World Heritage Site",
+        "Local dish: Rocoto relleno (stuffed peppers)"
+      ]
+    },
+    {
+      "city": "Ghent",
+      "country": "Belgium",
+      "clues": [
+        "Medieval Gravensteen castle",
+        "Vegetarian capital of Europe"
+      ],
+      "fun_fact": [
+        "Invented the 24-hour cycle race",
+        "World's first printed book in public library"
+      ],
+      "trivia": [
+        "Local specialty: Cuberdon 'nose' candy",
+        "Annual 10-day cultural festival"
+      ]
+    },
+    {
+      "city": "Rovaniemi",
+      "country": "Finland",
+      "clues": [
+        "Official hometown of Santa Claus",
+        "Northern Lights viewing"
+      ],
+      "fun_fact": [
+        "Rebuilt by Alvar Aalto after WWII",
+        "Arktikum science center straddles Arctic Circle"
+      ],
+      "trivia": [
+        "Local food: Poronkäristys (reindeer stew)",
+        "Sun doesn't rise for 51 days in winter"
+      ]
+    },
+  {
+    "city": "Pondicherry",
+    "country": "India",
+    "clues": [
+      "French colonial quarter with yellow buildings",
+      "Sri Aurobindo Ashram spiritual center"
+    ],
+    "fun_fact": [
+      "Streets named after French revolution figures",
+      "Experimental utopian city Auroville nearby"
+    ],
+    "trivia": [
+      "Local specialty: Filter coffee",
+      "Tamil-French cultural fusion"
+    ]
+  },
+  {
+    "city": "Oaxaca",
+    "country": "Mexico",
+    "clues": [
+      "Zócalo square with colorful buildings",
+      "Hierve el Agua petrified waterfalls"
+    ],
+    "fun_fact": [
+      "Birthplace of mezcal liquor",
+      "Guelaguetza indigenous cultural festival"
+    ],
+    "trivia": [
+      "UNESCO World Heritage Site",
+      "Local dish: Tlayudas (giant crispy tortillas)"
+    ]
+  },
+  {
+    "city": "Timbuktu",
+    "country": "Mali",
+    "clues": [
+      "Ancient Saharan trading hub",
+      "Djinguereber Mosque's mud architecture"
+    ],
+    "fun_fact": [
+      "Home to 700,000 medieval manuscripts",
+      "Salt caravans still arrive from Taoudenni"
+    ],
+    "trivia": [
+      "UNESCO World Heritage Site in Danger",
+      "Traditional Tuareg indigo turbans"
+    ]
+  },
+  {
+    "city": "Ushuaia",
+    "country": "Argentina",
+    "clues": [
+      "Southernmost city in the world",
+      "Departure point for Antarctic cruises"
+    ],
+    "fun_fact": [
+      "Prison-turned-museum with inmate boat models",
+      "End of Pan-American Highway"
+    ],
+    "trivia": [
+      "Local seafood: Centolla (king crab)",
+      "Subpolar oceanic climate"
+    ]
+  },
+  {
+    "city": "Bhaktapur",
+    "country": "Nepal",
+    "clues": [
+      "55-window palace in Durbar Square",
+      "Pottery Square clay workshops"
+    ],
+    "fun_fact": [
+      "No cars allowed in historic center",
+      "Bisket Jatra festival with tug-of-war chariots"
+    ],
+    "trivia": [
+      "Local specialty: Juju Dhau (king yogurt)",
+      "Newari brick architecture"
+    ]
+  },
+  {
+    "city": "Banff",
+    "country": "Canada",
+    "clues": [
+      "Rocky Mountain resort town",
+      "Turquoise Lake Louise waters"
+    ],
+    "fun_fact": [
+      "National park larger than country of Lebanon",
+      "Natural hot springs downtown"
+    ],
+    "trivia": [
+      "Local dish: Bison burgers",
+      "First Canadian national park"
+    ]
+  },
+  {
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "clues": [
+      "Dragon Bridge with guardian beasts",
+      "Pink Franciscan church on Triple Bridge"
+    ],
+    "fun_fact": [
+      "Car-free city center since 2007",
+      "Castle has puppet theater museum"
+    ],
+    "trivia": [
+      "Local dessert: Potica nut roll",
+      "Named European Green Capital 2016"
+    ]
+  },
+  {
+    "city": "San Miguel de Allende",
+    "country": "Mexico",
+    "clues": [
+      "Neo-Gothic Parroquia church",
+      "Artist colony with cobblestone streets"
+    ],
+    "fun_fact": [
+      "Named Best City in the World (Travel+Leisure)",
+      "Underground hot spring tunnels"
+    ],
+    "trivia": [
+      "UNESCO World Heritage Site",
+      "Local drink: Cantaritos (tequila cocktail)"
+    ]
+  },
+  {
+    "city": "Cusco",
+    "country": "Peru",
+    "clues": [
+      "Ancient Inca capital",
+      "Gateway to Machu Picchu"
+    ],
+    "fun_fact": [
+      "Shaped like a puma in aerial view",
+      "12-angled stone in Inca wall"
+    ],
+    "trivia": [
+      "Local dish: Cuy al horno (roasted guinea pig)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Rotorua",
+    "country": "New Zealand",
+    "clues": [
+      "Geothermal mud pools and geysers",
+      "Māori cultural performances"
+    ],
+    "fun_fact": [
+      "Sulphur smell nicknames it 'Sulphur City'",
+      "Zorbing invented here"
+    ],
+    "trivia": [
+      "Local food: Hāngī (earth oven-cooked)",
+      "Home to Southern Hemisphere's largest spa"
+    ]
+  },
+  {
+    "city": "Cartagena",
+    "country": "Colombia",
+    "clues": [
+      "Walled Old Town with bougainvillea",
+      "Castillo San Felipe fortress"
+    ],
+    "fun_fact": [
+      "Palenqueras fruit sellers in colorful dresses",
+      "Gabriel García Márquez's inspiration"
+    ],
+    "trivia": [
+      "Local dish: Arepa de huevo",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Salzburg",
+    "country": "Austria",
+    "clues": [
+      "Mozart's birthplace",
+      "Hohensalzburg Fortress overlooking city"
+    ],
+    "fun_fact": [
+      "The Sound of Music filming locations",
+      "World's largest ice caves nearby"
+    ],
+    "trivia": [
+      "Local dessert: Salzburger Nockerl",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "clues": [
+      "Game of Thrones' King's Landing",
+      "Orange-roofed Old Town walls"
+    ],
+    "fun_fact": [
+      "Maritime Republic rival to Venice",
+      "Stradun street polished like marble"
+    ],
+    "trivia": [
+      "Local drink: Maraschino liqueur",
+      "Libertas (Freedom) flag since 14th century"
+    ]
+  },
+  {
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "clues": [
+      "Rambla seaside promenade",
+      "Gaucho cultural museums"
+    ],
+    "fun_fact": [
+      "World's longest carnival (40 days)",
+      "Mate tea carried everywhere"
+    ],
+    "trivia": [
+      "Local dish: Chivito sandwich",
+      "Birthplace of tango song 'La Cumparsita'"
+    ]
+  },
+  {
+    "city": "Malacca",
+    "country": "Malaysia",
+    "clues": [
+      "Strait of Malacca historic port",
+      "Trishaws decorated with flowers"
+    ],
+    "fun_fact": [
+      "Baba-Nyonya Peranakan culture",
+      "Christ Church bricks from Holland"
+    ],
+    "trivia": [
+      "Local food: Chicken rice balls",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Granada",
+    "country": "Spain",
+    "clues": [
+      "Alhambra palace complex",
+      "Sierra Nevada mountain views"
+    ],
+    "fun_fact": [
+      "Free tapas with drinks tradition",
+      "Gypsy caves of Sacromonte"
+    ],
+    "trivia": [
+      "Local dessert: Piononos (pastry)",
+      "Last Muslim kingdom in Iberia"
+    ]
+  },
+  {
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "clues": [
+      "Ancient city moat and temples",
+      "Doi Suthep mountain temple"
+    ],
+    "fun_fact": [
+      "Yi Peng lantern festival",
+      "Elephant nature sanctuary"
+    ],
+    "trivia": [
+      "Local dish: Khao soi curry",
+      "Former Lanna Kingdom capital"
+    ]
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "clues": [
+      "Hallgrímskirkja expressionist church",
+      "Northern Lights viewing base"
+    ],
+    "fun_fact": [
+      "World's northernmost capital",
+      "Geothermal public pools"
+    ],
+    "trivia": [
+      "Local food: Pylsur (hot dogs)",
+      "Home to 1/3 of Iceland's population"
+    ]
+  },
+  {
+    "city": "Queenstown",
+    "country": "New Zealand",
+    "clues": [
+      "Adventure sports capital",
+      "Lake Wakatipu glacial waters"
+    ],
+    "fun_fact": [
+      "Bungee jumping invented here",
+      "Filming location for 'Lord of the Rings'"
+    ],
+    "trivia": [
+      "Local dish: Fergburger",
+      "Gold rush history"
+    ]
+  },
+  {
+    "city": "Valletta",
+    "country": "Malta",
+    "clues": [
+      "Baroque St. John's Co-Cathedral",
+      "Grand Harbour fortifications"
+    ],
+    "fun_fact": [
+      "World's first planned capital city",
+      "Film location for 'Gladiator'"
+    ],
+    "trivia": [
+      "Local pastry: Pastizzi",
+      "European Capital of Culture 2018"
+    ]
+  },
+  {
+    "city": "Hallstatt",
+    "country": "Austria",
+    "clues": [
+      "Lakeside village with Dachstein Alps",
+      "Oldest salt mine in the world"
+    ],
+    "fun_fact": [
+      "Chinese replica built in 2011",
+      "Bone House with painted skulls"
+    ],
+    "trivia": [
+      "Local dish: Kaiserschmarrn (pancakes)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Shiraz",
+    "country": "Iran",
+    "clues": [
+      "Persian gardens with cypress trees",
+      "Nasir al-Mulk Pink Mosque"
+    ],
+    "fun_fact": [
+      "Birthplace of Saadi and Hafez poets",
+      "Wine named after city (though banned)"
+    ],
+    "trivia": [
+      "Local dish: Kalam polo (cabbage rice)",
+      "Ancient capital during Zand dynasty"
+    ]
+  },
+  {
+    "city": "Jaipur",
+    "country": "India",
+    "clues": [
+      "'Pink City' with Hawa Mahal palace",
+      "Amer Fort elephant rides"
+    ],
+    "fun_fact": [
+      "Jantar Mantar sundial world's largest",
+      "Gemstone cutting capital"
+    ],
+    "trivia": [
+      "Local sweet: Ghevar",
+      "Part of Golden Triangle tourist circuit"
+    ]
+  },
+  {
+    "city": "Bagan",
+    "country": "Myanmar",
+    "clues": [
+      "Thousands of ancient pagodas",
+      "Hot air balloon sunrise views"
+    ],
+    "fun_fact": [
+      "2,200+ temples remain from 10,000 originals",
+      "Lacquerware workshops using horse hair"
+    ],
+    "trivia": [
+      "Local snack: Mont lone yay baw (rice balls)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+{
+    "city": "Lijiang",
+    "country": "China",
+    "clues": [
+      "Naxi minority culture with Dongba script",
+      "Black Dragon Pool park with Jade Dragon Snow Mountain"
+    ],
+    "fun_fact": [
+      "No city walls due to ruler's belief name (Li = barrier)",
+      "Rebuilt after 1996 earthquake"
+    ],
+    "trivia": [
+      "Local dish: Lijiang baba (fried bread)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Sucre",
+    "country": "Bolivia",
+    "clues": [
+      "Whitewashed colonial architecture",
+      "Dinosaur tracks at Cal Orckco"
+    ],
+    "fun_fact": [
+      "Constitutional capital (La Paz is administrative)",
+      "First city to revolt against Spanish rule"
+    ],
+    "trivia": [
+      "Local sweet: Chocolates de Para Ti",
+      "Nicknamed 'City of Four Names'"
+    ]
+  },
+  {
+    "city": "Antigua",
+    "country": "Guatemala",
+    "clues": [
+      "Volcano-ringed Spanish colonial town",
+      "Semana Santa sawdust carpet processions"
+    ],
+    "fun_fact": [
+      "3rd UNESCO City of Crafts",
+      "Crosses on ruins protect against earthquakes"
+    ],
+    "trivia": [
+      "Local coffee ranks among world's best",
+      "Original capital of Guatemala"
+    ]
+  },
+  {
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "clues": [
+      "Colorful hillside houses with alleyways",
+      "Mummy Museum with naturally preserved bodies"
+    ],
+    "fun_fact": [
+      "Underground road network in river tunnels",
+      "Cervantes Festival since 1972"
+    ],
+    "trivia": [
+      "Local dish: Enchiladas mineras",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Hội An",
+    "country": "Vietnam",
+    "clues": [
+      "Japanese covered bridge with temple",
+      "Tailor shops with 24-hour service"
+    ],
+    "fun_fact": [
+      "Full Moon Lantern Festival monthly",
+      "Ancient merchant house tunnels"
+    ],
+    "trivia": [
+      "Local food: Cao lầu noodles",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Galle",
+    "country": "Sri Lanka",
+    "clues": [
+      "Dutch Fort with lighthouse",
+      "International cricket stadium by ocean"
+    ],
+    "fun_fact": [
+      "Tsunami-proof architecture from 2004 disaster",
+      "Moonstone mine workshops"
+    ],
+    "trivia": [
+      "Local dish: Lamprais (rice packet)",
+      "Named after rooster crow (Portuguese)"
+    ]
+  },
+  {
+    "city": "Lübeck",
+    "country": "Germany",
+    "clues": [
+      "Holstentor medieval city gate",
+      "Marzipan invention claim"
+    ],
+    "fun_fact": [
+      "Salt warehouses shaped like ship prows",
+      "Thomas Mann's 'Buddenbrooks' setting"
+    ],
+    "trivia": [
+      "Local specialty: Rotspon wine",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Trieste",
+    "country": "Italy",
+    "clues": [
+      "Miramare Castle on Adriatic cliff",
+      "James Joyce wrote 'Ulysses' here"
+    ],
+    "fun_fact": [
+      "Coffee capital (Illy, Hausbrandt)",
+      "Only place with Serbian Orthodox church in Italy"
+    ],
+    "trivia": [
+      "Local dish: Jota (sauerkraut stew)",
+      "Former Austro-Hungarian port"
+    ]
+  },
+  {
+    "city": "Nara",
+    "country": "Japan",
+    "clues": [
+      "Tōdai-ji Temple's giant Buddha",
+      "Sacred deer roaming parks"
+    ],
+    "fun_fact": [
+      "Deer bow for senbei crackers",
+      "World's oldest wooden structure (Hōryū-ji)"
+    ],
+    "trivia": [
+      "Local treat: Kakinoha-zushi (persimmon leaf sushi)",
+      "First permanent Japanese capital"
+    ]
+  },
+  {
+    "city": "Girona",
+    "country": "Spain",
+    "clues": [
+      "Game of Thrones' Braavos filming",
+      "Colorful Onyar River houses"
+    ],
+    "fun_fact": [
+      "Last Jewish community expulsion site (1492)",
+      "Europe's best restaurant (El Celler de Can Roca)"
+    ],
+    "trivia": [
+      "Local dessert: Xuixo (cream pastry)",
+      "Arab Baths from 12th century"
+    ]
+  },
+  {
+    "city": "Zermatt",
+    "country": "Switzerland",
+    "clues": [
+      "Car-free village under Matterhorn",
+      "Glacier Paradise cable car"
+    ],
+    "fun_fact": [
+      "Electric taxis with silent horns",
+      "Mountaineering cemetery for climbers"
+    ],
+    "trivia": [
+      "Local dish: Raclette",
+      "First tourist ascent of Matterhorn 1865"
+    ]
+  },
+  {
+    "city": "Mendoza",
+    "country": "Argentina",
+    "clues": [
+      "Malbec wine region capital",
+      "Aconcagua mountain base"
+    ],
+    "fun_fact": [
+      "Underground irrigation canals from Huarpes",
+      "Annual Vendimia grape harvest festival"
+    ],
+    "trivia": [
+      "Local dish: Asado (barbecue)",
+      "Rebuilt after 1861 earthquake"
+    ]
+  },
+  {
+    "city": "Carcassonne",
+    "country": "France",
+    "clues": [
+      "Largest medieval fortress in Europe",
+      "Double-walled citadel"
+    ],
+    "fun_fact": [
+      "Restored by Viollet-le-Duc in 1853",
+      "Cathar castle siege history"
+    ],
+    "trivia": [
+      "Local dish: Cassoulet (bean stew)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Mostar",
+    "country": "Bosnia and Herzegovina",
+    "clues": [
+      "Stari Most bridge divers",
+      "Ottoman-style bazaar"
+    ],
+    "fun_fact": [
+      "Bridge destroyed in 1993, rebuilt 2004",
+      "Neretva River's emerald waters"
+    ],
+    "trivia": [
+      "Local coffee: Bosanska kafa",
+      "Symbol of post-war reconciliation"
+    ]
+  },
+  {
+    "city": "Rīga",
+    "country": "Latvia",
+    "clues": [
+      "Art Nouveau district",
+      "Central Market in Zeppelin hangars"
+    ],
+    "fun_fact": [
+      "Invented Christmas tree tradition (1510)",
+      "Black Balsam herbal liqueur"
+    ],
+    "trivia": [
+      "Local dish: Pelmeni (dumplings)",
+      "European Capital of Culture 2014"
+    ]
+  },
+  {
+    "city": "Toledo",
+    "country": "Spain",
+    "clues": [
+      "El Greco's burial site",
+      "Medieval city on Tagus River loop"
+    ],
+    "fun_fact": [
+      "Three cultures (Christian/Jewish/Muslim)",
+      "Damascene metalwork craft"
+    ],
+    "trivia": [
+      "Local marzipan tradition",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Essaouira",
+    "country": "Morocco",
+    "clues": [
+      "Atlantic coast fortified port",
+      "Gnaoua World Music Festival"
+    ],
+    "fun_fact": [
+      "Orson Welles filmed 'Othello' here",
+      "Goats climbing argan trees"
+    ],
+    "trivia": [
+      "Local dish: Grilled sardines",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Kraków",
+    "country": "Poland",
+    "clues": [
+      "Wawel Castle dragon legend",
+      "Largest medieval market square"
+    ],
+    "fun_fact": [
+      "First UNESCO City of Literature",
+      "Schindler's Factory Museum"
+    ],
+    "trivia": [
+      "Local snack: Obwarzanek (bagel)",
+      "Former Polish capital"
+    ]
+  },
+  {
+    "city": "Heidelberg",
+    "country": "Germany",
+    "clues": [
+      "Romantic castle ruins",
+      "Oldest university in Germany"
+    ],
+    "fun_fact": [
+      "World's largest wine barrel (58,124 gallons)",
+      "Student Prison graffiti history"
+    ],
+    "trivia": [
+      "Local dish: Saumagen (stuffed pork)",
+      "Mark Twain wrote about the city"
+    ]
+  },
+  {
+    "city": "Jaisalmer",
+    "country": "India",
+    "clues": [
+      "Golden Fort desert citadel",
+      "Camel safaris in Thar Desert"
+    ],
+    "fun_fact": [
+      "1/4 population lives in fort",
+      "Patwon Ki Haveli intricate carvings"
+    ],
+    "trivia": [
+      "Local dish: Ker sangri (desert beans)",
+      "Founded by Rawal Jaisal in 1156"
+    ]
+  },
+  {
+    "city": "Segovia",
+    "country": "Spain",
+    "clues": [
+      "Roman aqueduct with 167 arches",
+      "Disney-style Alcázar castle"
+    ],
+    "fun_fact": [
+      "Invented suckling pig cooking method",
+      "Last Spanish witch trial (1651)"
+    ],
+    "trivia": [
+      "Local dish: Cochinillo asado",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "České Budějovice",
+    "country": "Czech Republic",
+    "clues": [
+      "Original Budweiser beer town",
+      "Black Tower astronomical clock"
+    ],
+    "fun_fact": [
+      "Founded by King Přemysl Otakar II",
+      "Square is exact 1 hectare"
+    ],
+    "trivia": [
+      "Local dish: Kulajda (mushroom soup)",
+      "Home to Europe's largest fish farm"
+    ]
+  },
+  {
+    "city": "Sintra",
+    "country": "Portugal",
+    "clues": [
+      "Pena Palace's colorful towers",
+      "Moorish Castle walls"
+    ],
+    "fun_fact": [
+      "Lord Byron's 'glorious Eden'",
+      "Initiation Well at Quinta da Regaleira"
+    ],
+    "trivia": [
+      "Local sweet: Travesseiros (pillow pastries)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Bamberg",
+    "country": "Germany",
+    "clues": [
+      "Town Hall on river island",
+      "Smoked Rauchbier brewing"
+    ],
+    "fun_fact": [
+      "70% survived WWII bombing",
+      "Papal burial site (Clement II)"
+    ],
+    "trivia": [
+      "Local dish: Bamberger Zwiebel (stuffed onion)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Berat",
+    "country": "Albania",
+    "clues": [
+      "'City of a Thousand Windows'",
+      "Ottoman-era white houses"
+    ],
+    "fun_fact": [
+      "Iconography Museum in citadel",
+      "Onion Church with 14th-century frescoes"
+    ],
+    "trivia": [
+      "Local dish: Tavë kosi (yogurt bake)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+{
+    "city": "Plovdiv",
+    "country": "Bulgaria",
+    "clues": [
+      "Ancient Roman theater in city center",
+      "European Capital of Culture 2019"
+    ],
+    "fun_fact": [
+      "One of the oldest continuously inhabited cities in Europe",
+      "Built on seven syenite hills like Rome"
+    ],
+    "trivia": [
+      "Local dish: Kapama (meat and rice stew)",
+      "Formerly called Philippopolis"
+    ]
+  },
+  {
+    "city": "Trondheim",
+    "country": "Norway",
+    "clues": [
+      "Nidaros Cathedral – northernmost medieval cathedral",
+      "Colorful wooden wharves along Nidelva River"
+    ],
+    "fun_fact": [
+      "Viking burial site under parking lot",
+      "Student capital with 30,000+ students"
+    ],
+    "trivia": [
+      "Local dish: Raspeball (potato dumpling)",
+      "Former Viking capital"
+    ]
+  },
+  {
+    "city": "Gouda",
+    "country": "Netherlands",
+    "clues": [
+      "Famous cheese market with traditional weigh house",
+      "Stained glass windows in Sint-Janskerk"
+    ],
+    "fun_fact": [
+      "Invented stroopwafel syrup waffle",
+      "Museum in former plague house"
+    ],
+    "trivia": [
+      "Local treat: Goudse kaas (aged cheese)",
+      "Named after Van der Goude family"
+    ]
+  },
+  {
+    "city": "Dinant",
+    "country": "Belgium",
+    "clues": [
+      "Saxophone birthplace with Adolphe Sax Museum",
+      "Citadel overlooking Meuse River"
+    ],
+    "fun_fact": [
+      "Leffe beer brewed here since 1240",
+      "Destroyed/rebuilt 4 times in wars"
+    ],
+    "trivia": [
+      "Local specialty: Couque de Dinant (hard biscuit)",
+      "Charles de Gaulle injured here in WWI"
+    ]
+  },
+  {
+    "city": "Annecy",
+    "country": "France",
+    "clues": [
+      "Venice of the Alps with flower-lined canals",
+      "Lake Annecy's turquoise waters"
+    ],
+    "fun_fact": [
+      "Prison-turned-museum in middle of canal",
+      "Hosts International Animated Film Festival"
+    ],
+    "trivia": [
+      "Local dish: Tartiflette (cheese/potato bake)",
+      "Watchmaking capital in 19th century"
+    ]
+  },
+  {
+    "city": "Gruyères",
+    "country": "Switzerland",
+    "clues": [
+      "Medieval castle above cheese pastures",
+      "HR Giger Alien Museum"
+    ],
+    "fun_fact": [
+      "Gruyère cheese must mature in local caves",
+      "Bilingual French/German street signs"
+    ],
+    "trivia": [
+      "Local dessert: Meringues with double cream",
+      "Founded by Gruerius in 13th century"
+    ]
+  },
+  {
+    "city": "Ronda",
+    "country": "Spain",
+    "clues": [
+      "Cliffside Puente Nuevo bridge",
+      "Oldest bullring in Spain"
+    ],
+    "fun_fact": [
+      "Modern bullfighting invented here",
+      "Hemingway wrote about Ronda's matadors"
+    ],
+    "trivia": [
+      "Local dish: Rabo de toro (oxtail stew)",
+      "Roman settlement founded in 4th century BCE"
+    ]
+  },
+  {
+    "city": "Évora",
+    "country": "Portugal",
+    "clues": [
+      "Roman Temple of Diana columns",
+      "Chapel of Bones (Capela dos Ossos)"
+    ],
+    "fun_fact": [
+      "University founded by Jesuits in 1559",
+      "Megaliths older than Stonehenge nearby"
+    ],
+    "trivia": [
+      "Local dish: Açorda (bread soup)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Sibiu",
+    "country": "Romania",
+    "clues": [
+      "Brukenthal Palace Baroque art",
+      "Roofs with 'eyes' ventilation"
+    ],
+    "fun_fact": [
+      "First pharmacy in Romania (1494)",
+      "ASTRA Open-Air Museum of traditional life"
+    ],
+    "trivia": [
+      "Local dish: Sarmale (stuffed cabbage)",
+      "European Capital of Culture 2007"
+    ]
+  },
+  {
+    "city": "Alberobello",
+    "country": "Italy",
+    "clues": [
+      "Trulli limestone huts with cone roofs",
+      "Olive oil and wine production"
+    ],
+    "fun_fact": [
+      "Trulli built without mortar for tax evasion",
+      "Over 1,500 trulli structures"
+    ],
+    "trivia": [
+      "Local pasta: Orecchiette",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Kandy",
+    "country": "Sri Lanka",
+    "clues": [
+      "Temple of the Sacred Tooth Relic",
+      "Artificial Kandy Lake"
+    ],
+    "fun_fact": [
+      "Esala Perahera elephant procession",
+      "Last capital of Sinhalese kings"
+    ],
+    "trivia": [
+      "Local food: Kottu roti (chopped flatbread)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Himeji",
+    "country": "Japan",
+    "clues": [
+      "White Heron Castle (Shirasagijo)",
+      "Kokoen samurai gardens"
+    ],
+    "fun_fact": [
+      "Castle never destroyed by war/earthquake",
+      "Filming location for 'The Last Samurai'"
+    ],
+    "trivia": [
+      "Local dish: Anago meshi (conger eel rice)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Ayutthaya",
+    "country": "Thailand",
+    "clues": [
+      "Buddhist temple ruins",
+      "Chao Phraya River confluence"
+    ],
+    "fun_fact": [
+      "17th-century world's largest city",
+      "Buddha head entwined in tree roots"
+    ],
+    "trivia": [
+      "Local dish: Boat noodles",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Leh",
+    "country": "India",
+    "clues": [
+      "Himalayan Leh Palace",
+      "Buddhist monasteries like Thiksey"
+    ],
+    "fun_fact": [
+      "Home to world's highest motorable passes",
+      "Lunar landscape at Lamayuru"
+    ],
+    "trivia": [
+      "Local food: Thukpa (noodle soup)",
+      "Capital of Ladakh region"
+    ]
+  },
+  {
+    "city": "Paro",
+    "country": "Bhutan",
+    "clues": [
+      "Tiger's Nest Monastery cliffside temple",
+      "International airport with mountain approach"
+    ],
+    "fun_fact": [
+      "One of world's most dangerous airport landings",
+      "All buildings follow traditional architecture"
+    ],
+    "trivia": [
+      "Local dish: Ema datshi (chili cheese stew)",
+      "No traffic lights in entire country"
+    ]
+  },
+  {
+    "city": "Luoyang",
+    "country": "China",
+    "clues": [
+      "Longmen Grottoes Buddhist carvings",
+      "Peony capital with annual festival"
+    ],
+    "fun_fact": [
+      "Capital to 13 ancient dynasties",
+      "Shaolin Temple birthplace of kung fu nearby"
+    ],
+    "trivia": [
+      "Local dish: Water Banquet (24 courses)",
+      "Eastern terminus of Silk Road"
+    ]
+  },
+  {
+    "city": "Gyeongju",
+    "country": "South Korea",
+    "clues": [
+      "Bulguksa Temple and Seokguram Grotto",
+      "Ancient tumuli burial mounds"
+    ],
+    "fun_fact": [
+      "Called 'museum without walls'",
+      "Cheomseongdae oldest astronomical observatory"
+    ],
+    "trivia": [
+      "Local bread: Hwangnam-ppang (red bean)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Pingyao",
+    "country": "China",
+    "clues": [
+      "Ming-era city walls",
+      "First Chinese banking center"
+    ],
+    "fun_fact": [
+      "Best-preserved ancient Han Chinese city",
+      "Rishengchang – first draft bank"
+    ],
+    "trivia": [
+      "Local noodles: Wantuo",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Hwaseong",
+    "country": "South Korea",
+    "clues": [
+      "Hwaseong Fortress walls",
+      "Filial piety monument to King Jeongjo"
+    ],
+    "fun_fact": [
+      "UNESCO-listed fortress built in 2.5 years",
+      "Suwon chicken street food alley"
+    ],
+    "trivia": [
+      "Local dish: Galbi (marinated ribs)",
+      "Part of Gyeonggi Province"
+    ]
+  },
+  {
+    "city": "Bukhara",
+    "country": "Uzbekistan",
+    "clues": [
+      "Trading domes along Silk Road",
+      "Kalyan Minaret saved by Genghis Khan"
+    ],
+    "fun_fact": [
+      "Never destroyed despite 40+ invasions",
+      "Covered bazaars unchanged for centuries"
+    ],
+    "trivia": [
+      "Local dish: Bukharian plov",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Samarkand",
+    "country": "Uzbekistan",
+    "clues": [
+      "Registan Square's madrasas",
+      "Silk Road crossroads"
+    ],
+    "fun_fact": [
+      "Gur-e-Amir – Timur's mausoleum",
+      "Invented modern paper making"
+    ],
+    "trivia": [
+      "Local bread: Non (patterned flatbread)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Mtskheta",
+    "country": "Georgia",
+    "clues": [
+      "Svetitskhoveli Cathedral",
+      "Confluence of Mtkvari and Aragvi rivers"
+    ],
+    "fun_fact": [
+      "Former capital of Iberian Kingdom",
+      "Jvari Monastery's cross-shaped design"
+    ],
+    "trivia": [
+      "Local sweet: Churchkhela (walnut candy)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Lalibela",
+    "country": "Ethiopia",
+    "clues": [
+      "Rock-hewn monolithic churches",
+      "Beta Giyorgis cross-shaped structure"
+    ],
+    "fun_fact": [
+      "Built in 24 years according to legend",
+      "Still active pilgrimage site"
+    ],
+    "trivia": [
+      "Local drink: Tej (honey wine)",
+      "UNESCO World Heritage Site"
+    ]
+  },
+  {
+    "city": "Göreme",
+    "country": "Turkey",
+    "clues": [
+      "Fairy chimney rock formations",
+      "Open-air museum cave churches"
+    ],
+    "fun_fact": [
+      "Underground cities 18 stories deep",
+      "Hot air balloon capital of the world"
+    ],
+    "trivia": [
+      "Local dish: Testi kebab (clay pot meat)",
+      "UNESCO World Heritage Site"
+    ]
+  }
+]
+
+
+
+
+
+

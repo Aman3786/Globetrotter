@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Globetrotter</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <style>
+        .correct { background-color: #d4edda !important; }
+        .incorrect { background-color: #f8d7da !important; }
+        
+    </style>
+</head>
+<body>
+<div class="container mt-5">
+    <div class="d-flex justify-content-evenly">
+        {% if challenge %}
+            <div id="challenge-score" value="{{score}}" class="score alert alert-info">{{inviter.username}} Score: <span>{{score}}</span></div>
+        {% endif %}
+        <div id="score" class="score alert alert-info">Your Score: <span id="score-value">0</span></div>
+    </div>
+    <br>
+    <br>
+    <div class="card">
+        <div class="card-body">
+            <h2 class="card-title" id="clues"></h2>
+            <div id="options" class="d-grid gap-2"></div>
+            <div id="result" class="mt-3"></div>
+            <button onclick="loadNewQuestion()" class="btn btn-primary mt-3">Next Question</button>
+        </div>
+    </div>
+    <div class="mt-4">
+        <h3>Challenge a Friend</h3>
+        <input type="text" id="username" placeholder="Enter username" class="form-control">
+        <button onclick="createChallenge()" class="btn btn-success mt-2">Create Challenge</button>
+        <div id="challenge-link" class="mt-2"></div>
+    </div>
+</div>
+
+<script>
+    let currentScore = 0;
+    let currentQuestionId = null;
+    let currentUser = null;
+
+    async function loadNewQuestion() {
+        document.getElementById('result').innerHTML = "";
+        const response = await fetch('/api/game');
+        const data = await response.json();
+        currentQuestionId = data.destination_id;
+        document.getElementById('clues').textContent = data.clues.join(' • ');
+        const optionsDiv = document.getElementById('options');
+        optionsDiv.innerHTML = data.options
+            .map(option => `
+                <button class="btn btn-outline-secondary"
+                        onclick="submitAnswer('${option.city}')">
+                    ${option.city}
+                </button>
+            `).join('');
+    }
+
+    async function submitAnswer(answer) {
+        const payload = {
+            answer: answer,
+            user_id: currentUser
+        }
+        const response = await fetch(`/api/verify/${currentQuestionId}`, {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify(payload)
+        });
+        const result = await response.json();
+        console.log(result)
+        const resultDiv = document.getElementById('result');
+        if (result.correct) {
+            currentScore++;
+            document.getElementById('score-value').textContent = currentScore;
+            resultDiv.innerHTML = `
+                <div class="alert alert-success">
+                    &#128516 Correct! <br>
+                    Fun Fact: ${result.fun_fact}
+                </div>`;
+            confetti();
+        } else {
+            resultDiv.innerHTML = `
+                <div class="alert alert-danger">
+                    &#128532 Incorrect! <br>
+                    Fact: ${result.fun_fact}
+                </div>
+            `;
+        }
+
+        if(result.new_score){
+            currentScore = result.new_score;
+            document.getElementById('score-value').textContent = currentScore
+        }
+    }
+    async function createChallenge() {
+        const username = document.getElementById('username').value;
+        const response = await fetch('/api/users', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({username})
+        });
+        const user = await response.json();
+        currentUser = user.id
+        console.log(currentUser)
+
+        const challengeResponse = await fetch(`/api/challenges/${user.id}`, {
+            method: 'POST'
+        });
+        const challenge = await challengeResponse.json();
+
+        const link = `${window.location.origin}/challenges?challenge_id=${challenge.challenge_id}`;
+        document.getElementById('challenge-link').innerHTML = `
+            Share this link: <a href="${link}">${link}</a>
+        `;
+    }
+    // Initial load
+    loadNewQuestion();
+</script>
+
+</body>
+</html>
