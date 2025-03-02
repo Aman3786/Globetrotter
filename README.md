@@ -21,6 +21,17 @@ Link: https://globetrotter-1786.up.railway.app/
 
 **Deployment:**
 `Railway`
+
+
+## :pushpin: Architectural Diagram
+```mermaid
+graph LR
+    A[User Browser UI] -->|HTTP Requests| B(FastAPI Server)
+    B -->|SQL Queries| C[(SQLite Database)]
+    C -->|Query Results| B
+    B -->|JSON Responses| A
+```
+
 ## :hammer_and_wrench: Setup
 1. Clone repo:
 ```bash
