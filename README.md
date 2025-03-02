@@ -1,5 +1,7 @@
 # :earth_africa: Globetrotter Challenge
 An ultimate travel guessing game featuring cryptic clues and friend challenges.
+
+Link: https://globetrotter-1786.up.railway.app/
 ## :rocket: Features
 - 100+ destinations with clues/facts
 - Real-time scoring system
